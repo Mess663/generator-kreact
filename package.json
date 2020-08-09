@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "LiuKunhui",
+    "url": "https://github.com/Mess663",
+    "email": "vaporwavespaceship@gmail.com"
+  },
+  "license": "MIT",
   "files": [
     "app",
     "router"
@@ -17,5 +21,10 @@
   ],
   "dependencies": {
     "yeoman-generator": "^4.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
   }
 }
