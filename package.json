@@ -1,7 +1,7 @@
 {
-  "name": "generator-hey",
-  "version": "1.0.0",
-  "description": "generator 模板",
+  "name": "generator-kreact",
+  "version": "0.0.3",
+  "description": "快速初始化出kbone-react+typescript以及其他基础设施的脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,10 +12,6 @@
     "email": "vaporwavespaceship@gmail.com"
   },
   "license": "MIT",
-  "files": [
-    "app",
-    "router"
-  ],
   "keywords": [
     "yeoman-generator"
   ],
