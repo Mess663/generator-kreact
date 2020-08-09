@@ -1,0 +1,21 @@
+{
+  "name": "generator-hey",
+  "version": "1.0.0",
+  "description": "generator 模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.11.0"
+  }
+}
