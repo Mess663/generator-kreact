@@ -1,6 +1,6 @@
 {
   "name": "generator-kreact",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "快速初始化出kbone-react+typescript以及其他基础设施的脚手架",
   "main": "index.js",
   "scripts": {

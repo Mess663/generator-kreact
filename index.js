@@ -19,9 +19,9 @@ module.exports = class extends Generator {
       },
       {
         type: 'list',
-        choices: ['kbone'],
+        choices: ['kbone', 'react'],
         name: 'language',
-        message: '项目语言',
+        message: '项目框架',
         default: 'kbone',
       },
     ]).then((answers) => {
